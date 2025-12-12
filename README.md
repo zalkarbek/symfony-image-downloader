@@ -12,3 +12,5 @@ docker-compose up -d
 
 ###  Просмотр сайта
 - доступен по адресу: http://localhost:5173
+
+![Скриншот интерфейса](preview.png)
